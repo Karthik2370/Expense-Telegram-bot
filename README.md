@@ -49,7 +49,7 @@ Send `/start` to your Telegram bot.
 - This is a demo project for learning purposes.
 - All data is stored in memory. Once you stop the bot, your data will be lost.
 - For production, you can easily extend it to use a database like MongoDB or SQLite.
-- SOme Future implementations are 
+- Some Future implementations are 
 1. Reminders - /remindme, reminders to log your expenses daily
 2. Monthly Summary — Like /summary to show total spent this month, maybe with a pie chart (using an API like QuickChart).
 3. Export Feature — /export to send a CSV or text summary of your expenses.
