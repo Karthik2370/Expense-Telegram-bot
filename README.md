@@ -22,7 +22,7 @@ Expensso is a simple Telegram bot to track your personal expenses directly insid
 - Node.js  
 - node-telegram-bot-api  
 - dotenv (for environment variables)
-
+- Railway (Hosting and Deployment)
 ---
 
 ### Start the Bot
